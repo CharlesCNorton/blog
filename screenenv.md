@@ -20,7 +20,7 @@ authors:
 
 ---
 
-Imagine you need to automate desktop tasks, test GUI applications, or build an AI agent that can interact with softwares. This used to require complex VM setups and brittle automation frameworks.
+Imagine you need to automate desktop tasks, test GUI applications, or build an AI agent that can interact with software. This used to require complex VM setups and brittle automation frameworks.
 
 ScreenEnv changes this by providing a **sandboxed desktop environment** that runs in a Docker container. Think of it as a complete virtual desktop session that your code can fully control - not just clicking buttons and typing text, but managing the entire desktop experience including launching applications, organizing windows, handling files, executing terminal commands, and recording the entire session.
 
@@ -28,7 +28,7 @@ ScreenEnv changes this by providing a **sandboxed desktop environment** that run
 
 - **🖥️ Full Desktop Control**: Complete mouse and keyboard automation, window management, application launching, file operations, terminal access, and screen recording
 - **🤖 Dual Integration Modes**: Support both Model Context Protocol (MCP) for AI systems and direct Sandbox API - adapting to any agent or backend logic
-- **🐳 Docker Native**: No complex VM setup - just Docker. The environment is isolated, reproducible, and easily deployed anywhere in less than 10 secondes. Support AMD64 and ARM64 architecture.
+- **🐳 Docker Native**: No complex VM setup - just Docker. The environment is isolated, reproducible, and easily deployed anywhere in less than 10 seconds. Support AMD64 and ARM64 architecture.
 
 ### 🎯 **One-Line Setup**
 
